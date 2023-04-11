@@ -1,0 +1,123 @@
+body {
+  background-color: #005c45;
+  color: #2f1f1f;
+  font-family: 'Quicksand', sans-serif;
+}
+
+.container {
+  margin-bottom: 50px;
+}
+
+.header {
+  text-align: center;
+  margin-top: 0;
+  margin-bottom: 50px;
+  padding: 8px;
+  background-color: #56f6b8;
+  color: #005c45;
+}
+
+.footer {
+  text-align: center;
+  margin-top: auto;
+  background-color: #005c45;
+  padding: 8px
+}
+
+form {
+  text-align: center;
+
+  padding: 50px;
+  color:#56f6b8;
+  background-color: #005c45;
+  border-radius: 20px;
+  width: 60%;
+  margin-left: auto;
+  margin-right: auto;
+  margin-bottom: 30px;
+}
+
+.label {
+  font-weight: 600;
+  margin: 20px;
+ 
+}
+
+.mb-1 {
+  margin: 30px;
+ 
+}
+
+.mb-2 {
+  margin: 30px;
+}
+
+.mb-3 {
+  margin: 30px;
+  text-align: center;
+}
+
+.button {
+  background-color: #56f6b8;
+  border: transparent;
+}
+
+.button:hover {
+  background-color: #3fba7c;
+  border: transparent;
+}
+
+#list-length {
+  color:#F0F8FF;
+  text-align: center;
+}
+
+.music-card {
+  background-color: #56f6b8;
+  border-radius: 200px;
+  text-align: center;
+}
+
+#cover {
+  margin: auto;
+  margin-top: 8px;
+  width: 93%;
+  border-radius: 20px;
+
+}
+
+.music-info {
+  margin-top: 30px;
+}
+
+p {
+  margin-top: 5px;
+}
+
+
+
+select {
+  
+  border-radius: 10px;
+  padding: 5px;
+  margin: 10px;
+}
+
+
+#delete-btn {
+  background-color: #005c45;
+  border: transparent;
+  margin: 10px;
+}
+
+#delete-btn:hover {
+  background-color: #3fba7c;
+}
+
+a {
+  color: #56f6b8;
+}
+
+a:hover {
+  color: #3fba7c;
+}
